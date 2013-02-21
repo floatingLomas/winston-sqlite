@@ -1,0 +1,16 @@
+{
+    "name": "winston-sqlite",
+    "version": "0.0.1",
+    "description": "A Winston transport for SQLite",
+    "keywords": ["logging", "sysadmin", "tools", "winston", "sqlite", "sequelize"],
+    "author": "Jonathan Lomas <jonathan@floatinglomas.ca>",
+    "dependencies": {
+        "sqlite3": ">=2.1.5",
+        "sequelize": "1.6.0-beta4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/floatingLomas/winston-sqlite.git"
+    },
+    "main": "index"
+}
